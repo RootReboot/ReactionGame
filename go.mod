@@ -10,4 +10,5 @@ require (
 	google.golang.org/genproto v0.0.0-20200413115906-b5235f65be36 // indirect
 	google.golang.org/grpc v1.28.1
 	google.golang.org/protobuf v1.21.0
+	github.com/rs/zerolog v1.18.0
 )
