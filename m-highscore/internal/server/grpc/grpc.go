@@ -4,7 +4,7 @@ import (
 	"context"
 	"net"
 
-	game "github.com/RootReboot/ReactionGame/m-apis"
+	game "github.com/RootReboot/ReactionGame/m-apis/m-highscore/v1"
 	"github.com/pkg/errors"
 	"github.com/rs/zerolog/log"
 	"google.golang.org/grpc"

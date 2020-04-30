@@ -8,7 +8,7 @@ import (
 
 	"google.golang.org/grpc"
 
-	game "github.com/RootReboot/ReactionGame/m-apis"
+	game "github.com/RootReboot/ReactionGame/m-apis/m-highscore/v1"
 )
 
 func main() {
